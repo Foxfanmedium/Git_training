@@ -1,11 +1,13 @@
-<<<<<<< HEAD
 print("Hello world;")
 print("Hello everybody;")
 print('Hello;')
 print('Hello my dear friend;')
 print('Glad to see you;')
-=======
-print("Hello world;")
-print("Hello everybody;")
-print('Hello;')
->>>>>>> master
+
+class Summary
+
+def Summary():
+	a = 7
+	b = 9
+	summary = a*b
+	return summary  
