@@ -20,4 +20,3 @@ def Summary():
 	b = 9
 	summary = a*b
 	return summary  
->>>>>>> master
