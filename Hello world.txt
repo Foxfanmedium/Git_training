@@ -4,6 +4,7 @@ print('Hello;')
 print('Hello my dear friend;')
 print('Glad to see you;')
 
+
 class NewFeature
 
 def feature():
@@ -11,3 +12,12 @@ def feature():
 	b = 8
 	sum = a + b
 	return sum
+
+class Summary
+
+def Summary():
+	a = 7
+	b = 9
+	summary = a*b
+	return summary  
+>>>>>>> master
