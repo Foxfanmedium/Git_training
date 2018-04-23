@@ -4,6 +4,15 @@ print('Hello;')
 print('Hello my dear friend;')
 print('Glad to see you;')
 
+
+class NewFeature
+
+def feature():
+	a = 5
+	b = 8
+	sum = a + b
+	return sum
+
 class Summary
 
 def Summary():
