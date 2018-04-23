@@ -1,11 +1,13 @@
-<<<<<<< HEAD
 print("Hello world;")
 print("Hello everybody;")
 print('Hello;')
 print('Hello my dear friend;')
 print('Glad to see you;')
-=======
-print("Hello world;")
-print("Hello everybody;")
-print('Hello;')
->>>>>>> master
+
+class NewFeature
+
+def feature():
+	a = 5
+	b = 8
+	sum = a + b
+	return sum
